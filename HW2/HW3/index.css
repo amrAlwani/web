@@ -1,0 +1,26 @@
+.myh1 {
+    font-weight: 1000;
+    margin-top: 0;
+    ;
+    color: red;
+    text-align: center
+}
+div p {
+    color: red;
+}
+ul > li{
+    color: blue;
+}
+.title{
+color:green;
+font-size: 30px;
+}
+.pr{
+    color:gray;
+    font-size:18px;
+}
+.bt{
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
